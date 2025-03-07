@@ -1,0 +1,37 @@
+.a{
+    background-color:cornflowerblue;
+    color: black;
+    height: 200px;
+    padding-left:100px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    .z{
+        padding-left: 500px;;
+    }
+    .f{
+        padding-left: 600px;
+    }
+
+}
+.d{
+    background-color: cadetblue;
+    .r{
+        padding-left: 20px;
+    }
+    .s{
+        padding-left: 20px;
+    }
+    .q{
+        padding-left: 20px;
+    }
+}
+.b{
+    .t{
+
+        text-align-last: center;
+    }
+}
+
+.v{
+    padding-left: 700px;
+}
